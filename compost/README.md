@@ -5,6 +5,26 @@
 
 ---
 
+## Document Set — How to Use These Files
+
+This is a multi-file knowledge base. Each file has a specific purpose. Start with this README, then go deeper based on your current priority.
+
+| File | Purpose | Start Here If... |
+|---|---|---|
+| **[README.md](./README.md)** | Full technical farm manual — methods, materials, layout, quality | You want to understand how composting works |
+| **[PROJECT-DIAGRAM.md](./PROJECT-DIAGRAM.md)** | Site blueprints, windrow diagrams, process flow, batch calendar | You are designing or laying out your site |
+| **[RUNBOOK.md](./RUNBOOK.md)** | Day-to-day operations — SOPs, checklists, logbook formats, troubleshooting | Your operators need instructions; you want daily checklists |
+| **[BUSINESS-PLAN.md](./BUSINESS-PLAN.md)** | Commercial strategy — market, pricing, sales channels, 3-year financials, funding | You are ready to treat this as a real business |
+| **[CAREER-TRANSITION.md](./CAREER-TRANSITION.md)** | IT-to-agri transition — study plan, who to meet, financial bridge, when to quit | You are still in IT and planning the move |
+
+**Recommended reading order for someone new to this:**
+```
+CAREER-TRANSITION.md  →  README.md (Sections 1–3)  →  BUSINESS-PLAN.md  →
+README.md (Sections 4–12)  →  PROJECT-DIAGRAM.md  →  RUNBOOK.md
+```
+
+---
+
 ## Table of Contents
 
 1. [Objectives & Scale](#1-objectives--scale)
@@ -903,6 +923,17 @@ Practical steps to guarantee pathogen kill:
 
 *Document version: 1.0 | Prepared for: Farm near Hyderabad, Telangana | Units: Metric, INR*
 *Review annually and update recipes based on your lab test results and local material availability.*
+
+---
+
+## Companion Documents
+
+| Document | Description |
+|---|---|
+| [PROJECT-DIAGRAM.md](./PROJECT-DIAGRAM.md) | 8 diagrams — 3D site blueprint, windrow cross-section, process flow, batch rotation calendar, water layout, equipment map, material flow, ramp-up timeline |
+| [RUNBOOK.md](./RUNBOOK.md) | Operational field manual — 10 SOPs, printable daily checklists, weekly agenda, monthly review, seasonal adjustments, troubleshooting decision tree, emergency procedures, logbook formats |
+| [BUSINESS-PLAN.md](./BUSINESS-PLAN.md) | Commercial strategy — market sizing, 5 customer segments, competitive positioning, 3-phase product line, pricing, 7 sales channels, brand/content strategy, 3-year P&L, ₹12.2L capital plan, funding options, govt schemes, compliance, 90-day launch plan |
+| [CAREER-TRANSITION.md](./CAREER-TRANSITION.md) | IT-to-agri transition guide — skills audit, 18-month study curriculum, 15 key contacts, certifications, 24-month timeline, financial bridge plan, mental model shifts, go/no-go checklist, printable summary card |
 
 ---
 
