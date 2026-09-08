@@ -60,6 +60,12 @@ From the blueprint:
 
 ---
 
+## Site Blueprint
+
+![Commercial Vermicompost Unit — 20 Beds, 2,400 m²](./vermi_compost.png)
+
+---
+
 ## 8 Zones in the Unit
 
 | Zone | Name | Size | Purpose |

@@ -35,6 +35,8 @@
 
 **Total site: 60m × 40m = 2,400 m² (0.59 acres)**
 
+![Commercial Vermicompost Unit — 20 Bed Site Layout](./vermi_compost.png)
+
 ```
 ←──────────────────── 60 m ────────────────────→
 
